@@ -1,6 +1,8 @@
 remote_theme: pages-themes/architect@v0.2.0
 title: Nowości
+markdown: kramdown
 description: Lorem ipsum.
-baseurl: school-news
+baseurl: /school-news
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
