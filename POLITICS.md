@@ -1,1 +1,5 @@
-Here will be news about politics.
+layout: page
+title: "Polityka"
+permalink: /politics
+
+Tu będą nowości nt. polityki.
