@@ -1,5 +1,5 @@
 layout: page
 title: "Polityka"
-permalink: /politics
+permalink: /polityka
 
 Tu będą nowości nt. polityki.
