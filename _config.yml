@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
 title: School news
-description: Bookmark this to keep an eye on my project updates!
+description: Lorem ipsum.
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
