@@ -5,4 +5,4 @@ subtitle: https://businessinsider.com.pl/wiadomosci/wiceminister-odchodzi-ze-sta
 tags: [polityka-wewnetrzna]
 ---
 
-Wiceminister Jacek Żalek odchodzi ze stanowiska sekretarza stanu w Ministerstwie Funduszy i Polityki Regionalnej. Jest to pokłosie afery w NCBiR. Afera dotyczyła przyznanych w ramach konkursu Narodowego Centrum Badań i Rozwoju "Szybka ścieżka - innowacje cyfrowe". Dotacje miały opiewaćna prawie 200 mln i być przyznane na podstawie wątpliwych reguł.
+Wiceminister Jacek Żalek odchodzi ze stanowiska sekretarza stanu w Ministerstwie Funduszy i Polityki Regionalnej. Jest to pokłosie afery w NCBiR. Afera dotyczyła przyznanych w ramach konkursu Narodowego Centrum Badań i Rozwoju "Szybka ścieżka - innowacje cyfrowe". Dotacje miały opiewaćna prawie 200 mln i być przyznane na podstawie wątpliwych reguł. Ważne jest aby dofinansowania szły do firm, które tworzą prawdziwą innowację a nie zasilały konta polityczne.
