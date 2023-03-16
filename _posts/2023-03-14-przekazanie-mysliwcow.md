@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Polska przegaże Ukrainie myśliwce
+title: Polska przekaże Ukrainie myśliwce
 subtitle: https://www.rp.pl/konflikty-zbrojne/art38121081-morawiecki-pytany-o-mig-i-dla-ukrainy-przekazanie-moze-nastapic-za-4-6-tygodni
 tags: [polityka-wewnetrzna]
 ---
