@@ -1,3 +1,9 @@
+---
+layout: home
+title: Prasówka
+subtitle: Prasówka wykonana na potrzeby przedmiotu Historia i Teraźniejszość
+---
+
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
         {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
